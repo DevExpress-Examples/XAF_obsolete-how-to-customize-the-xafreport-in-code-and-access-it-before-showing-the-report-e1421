@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebReportsController.cs](./CS/DXExample.Module.Web/WebReportsController.cs) (VB: [WebReportsController.vb](./VB/DXExample.Module.Web/WebReportsController.vb))
+* [WinReportsController.cs](./CS/DXExample.Module.Win/WinReportsController.cs) (VB: [WinReportsController.vb](./VB/DXExample.Module.Win/WinReportsController.vb))
+* **[MyReportData.cs](./CS/DXExample.Module/MyReportData.cs) (VB: [MyReportData.vb](./VB/DXExample.Module/MyReportData.vb))**
+<!-- default file list end -->
 # OBSOLETE - How to customize the XafReport in code and access it before showing the Report Preview
 
 
